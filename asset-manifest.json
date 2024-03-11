@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/University-Website/static/css/main.49f393ab.css",
+    "main.js": "/University-Website/static/js/main.a9e65474.js",
+    "static/js/453.a6a97343.chunk.js": "/University-Website/static/js/453.a6a97343.chunk.js",
+    "static/media/video.mp4": "/University-Website/static/media/video.5b7d8a38625b5968c1e2.mp4",
+    "static/media/hero.png": "/University-Website/static/media/hero.1c44fc731e824d345d6b.png",
+    "static/media/about.png": "/University-Website/static/media/about.ae79f7c4ba002987bed7.png",
+    "static/media/program-3.png": "/University-Website/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-1.png": "/University-Website/static/media/program-1.a77b437944c963838cea.png",
+    "static/media/program-2.png": "/University-Website/static/media/program-2.72b615ee1f3e9b493416.png",
+    "static/media/gallery-3.png": "/University-Website/static/media/gallery-3.cc599987b9e13cee8fcc.png",
+    "static/media/gallery-4.png": "/University-Website/static/media/gallery-4.2d4f350efbdf6fc200a8.png",
+    "static/media/gallery-1.png": "/University-Website/static/media/gallery-1.901e63cc3af8b9273073.png",
+    "static/media/gallery-2.png": "/University-Website/static/media/gallery-2.cb423b37437ac0ff6f31.png",
+    "static/media/user-2.png": "/University-Website/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/University-Website/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-4.png": "/University-Website/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/University-Website/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/University-Website/index.html",
+    "main.49f393ab.css.map": "/University-Website/static/css/main.49f393ab.css.map",
+    "main.a9e65474.js.map": "/University-Website/static/js/main.a9e65474.js.map",
+    "453.a6a97343.chunk.js.map": "/University-Website/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f393ab.css",
+    "static/js/main.a9e65474.js"
+  ]
+}
